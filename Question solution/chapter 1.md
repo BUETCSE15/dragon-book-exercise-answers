@@ -60,7 +60,7 @@ about the target machine".
 
 5.(c)Briefly explain how java language processor works.What is in tine compiler
 
-**Solution:**Java program is compiled with a hybrid compiler. A compiler firstly converts java source code to byte code(.class extenson) and then with input it runs on **java virtual machine(JVM)** which interprets with targeted machine language.In order to achieve faster processing of inputs to outputs,some Java compilers, called just-in-time compilers,translate the bytecodes into machine language immediately before they run the intermediate program toprocess the input.
+**Solution:** Java program is compiled with a hybrid compiler. A compiler firstly converts java source code to byte code(.class extenson) and then with input it runs on **java virtual machine(JVM)** which interprets with targeted machine language.In order to achieve faster processing of inputs to outputs,some Java compilers, called just-in-time compilers,translate the bytecodes into machine language immediately before they run the intermediate program toprocess the input.
 
 (d) Briefly describe the role of following components in context of compiler :
 
